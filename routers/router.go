@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"finger/controllers"
+	"github.com/cheilman/finger/controllers"
 	"github.com/astaxie/beego"
 )
 
